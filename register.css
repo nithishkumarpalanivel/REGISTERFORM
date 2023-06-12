@@ -1,0 +1,48 @@
+body{
+    background: url("https://cdn5.f-cdn.com/contestentries/1370548/29833877/5b4f15b1ea4aa_thumb900.jpg");
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}   
+
+.regform{
+    width: 500px;
+    background-color:rgba(0,0,0,.5);
+    margin: 200px auto;
+    padding: 10px 20px;
+    color: white;
+    font-size: 20px;
+    border-radius: 30px;
+   
+}
+.regform h3{
+    text-align: center;
+    color: #FF6347;
+
+}
+.regform .textlabel{
+    display: block;
+}
+.input input{
+    width: 75%;
+    border-radius: 10px;
+    padding :10px;
+}
+.input{
+    padding: 10px;
+}
+.btn{
+    text-align: center;
+
+}
+.radio{
+    padding: 10px;
+}
+.btn button{
+        background-color: #80ccff;
+        border-radius: 10px;
+        padding: 10px;
+         font-family:Verdana, Geneva, Tahoma, sans-serif;
+}   
+}
+.input label{
+    padding-bottom: 10px;
+}
